@@ -1,1 +1,1 @@
-This is part of the pre-course from microverse
+The OdinProject Foundations Google HomePage project.
