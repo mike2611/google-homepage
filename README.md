@@ -4,7 +4,7 @@
 >  I got the idea for this project from The Odin Project.
 >  This project is a clone of Google Home Page.
 
-![screenshot](/images/PageScreenshot.png?raw=true "Page Screenshot")
+![screenshot](/images/screenShot.png?raw=true "Page Screenshot")
 
  
 ## Built With
