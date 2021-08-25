@@ -1,121 +1,119 @@
-.center{
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
+.center {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 
-input{
-    border-radius: 25px;
-    border: 1px solid rgb(231, 229, 229);
-    padding: 20px;
-    margin: 30px 20px;
-    width: 600px;
-    height: 20px;
-    background-image: url("logos/lupa.png");
-    background-repeat: no-repeat;
-    background-size: 18px 18px;
-    background-position-y: center;
-    background-position-x: 10px;
+input {
+  border-radius: 25px;
+  border: 1px solid rgb(231, 229, 229);
+  padding: 20px;
+  margin: 30px 20px;
+  width: 600px;
+  height: 20px;
+  background-image: url("logos/lupa.png");
+  background-repeat: no-repeat;
+  background-size: 18px 18px;
+  background-position-y: center;
+  background-position-x: 10px;
 }
 
-input:hover{
-    box-shadow: 2px 2px  rgb(228, 227, 227);
+input:hover {
+  box-shadow: 2px 2px  rgb(228, 227, 227);
 }
 
-form div{
-    display: flex;
-    justify-content: center;
+form div {
+  display: flex;
+  justify-content: center;
 }
 
-div button{
-    border-radius: 5px;
-    background-color: hsla(240, 64%, 98%, 0.986);
-    border: none;
-    color: rgb(80, 79, 79);
-    font-size: 14px;
-    margin-right: 10px;
-    padding: 10px 16px;
+div button {
+  border-radius: 5px;
+  background-color: hsla(240, 64%, 98%, 0.986);
+  border: none;
+  color: rgb(80, 79, 79);
+  font-size: 14px;
+  margin-right: 10px;
+  padding: 10px 16px;
 }
 
-div button:hover{
-    border: 1px solid rgb(235, 233, 233);
+div button:hover {
+  border: 1px solid rgb(235, 233, 233);
 }
 
-.imgUser{
-    border-radius: 50%;
+.imgUser {
+  border-radius: 50%;
 }
 
-ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
-.navbar{
-    display: inline;
-    float: right;
+.navbar {
+  display: inline;
+  float: right;
 }
 
-.navbarTop{
-    padding-bottom: 65px;
+.navbarTop {
+  padding-bottom: 65px;
 }
 
-
-
-.navbarDown{
-    background-color: rgba(240, 241, 243, 0.993);
-    overflow: hidden;
-    position: fixed;
-    bottom: 0;
-    width: 100%;   
+.navbarDown {
+  background-color: rgba(240, 241, 243, 0.993);
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
-.navbarMex{
-    background-color: rgba(240, 241, 243, 0.993);
-    overflow: hidden;
-    position: fixed;
-    bottom: 46px;
-    width: 100%;
-    border-bottom: 1px solid rgb(194, 194, 194);
+.navbarMex {
+  background-color: rgba(240, 241, 243, 0.993);
+  overflow: hidden;
+  position: fixed;
+  bottom: 46px;
+  width: 100%;
+  border-bottom: 1px solid rgb(194, 194, 194);
 }
 
-.navbarMex li{
-    padding: 14px 12px;
-    font-size: 16px;
-    color: rgb(124, 124, 124);
+.navbarMex li {
+  padding: 14px 12px;
+  font-size: 16px;
+  color: rgb(124, 124, 124);
 }
 
-.navbarDown li{
-    float: left;
-    display: block;
-    padding: 14px 16px;
-    font-size: 16px;
-    color: rgb(124, 124, 124);
+.navbarDown li {
+  float: left;
+  display: block;
+  padding: 14px 16px;
+  font-size: 16px;
+  color: rgb(124, 124, 124);
 }
 
-.navbarDown div{
-    float: right;
-    padding-right: 30px;
+.navbarDown div {
+  float: right;
+  padding-right: 30px;
 }
 
-.palabras{
-    padding: 12px 8px;
-    font-size: 14px;
+.palabras {
+  padding: 12px 8px;
+  font-size: 14px;
 }
 
-.logoUser{
-    padding: 5px 8px;
+.logoUser {
+  padding: 5px 8px;
 }
 
-.logoApps{
-    padding: 9px 12px 6px 25px;
+.logoApps {
+  padding: 9px 12px 6px 25px;
 }
 
 li:hover {
-    text-decoration:underline;
+  text-decoration: underline;
 }
 
-.navbarMex li:hover{
-    text-decoration:none;
+.navbarMex li:hover {
+  text-decoration: none;
 }
