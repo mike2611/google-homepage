@@ -92,9 +92,10 @@ ul {
   color: rgb(124, 124, 124);
 }
 
-.navbarDown div {
+#secondNav {
   float: right;
-  padding-right: 30px;
+  padding: 0;
+  margin-right: 25px;
 }
 
 .palabras {
